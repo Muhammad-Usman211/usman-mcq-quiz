@@ -110,5 +110,1111 @@
     ],
     "answer": 2,
     "explanation": "There are five pillars of Islam."
+  },
+  {
+    "id": 9,
+    "subject": "English",
+    "topic": "Grammar",
+    "question": "Choose the correct plural of “child”.",
+    "options": [
+      "Childs",
+      "Children",
+      "Childes",
+      "Childrens"
+    ],
+    "answer": 1,
+    "explanation": "The standard plural form is children."
+  },
+  {
+    "id": 10,
+    "subject": "English",
+    "topic": "Vocabulary",
+    "question": "Choose the closest meaning of “rapid”.",
+    "options": [
+      "Slow",
+      "Quick",
+      "Weak",
+      "Late"
+    ],
+    "answer": 1,
+    "explanation": "Rapid means quick or fast."
+  },
+  {
+    "id": 11,
+    "subject": "English",
+    "topic": "Grammar",
+    "question": "Which word is a pronoun?",
+    "options": [
+      "Beautiful",
+      "They",
+      "Run",
+      "Quickly"
+    ],
+    "answer": 1,
+    "explanation": "They is a pronoun."
+  },
+  {
+    "id": 12,
+    "subject": "English",
+    "topic": "Grammar",
+    "question": "Choose the correct past tense: “She ___ a book.”",
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "will read"
+    ],
+    "answer": 0,
+    "explanation": "Read is the past form here; it is pronounced /red/."
+  },
+  {
+    "id": 13,
+    "subject": "English",
+    "topic": "Vocabulary",
+    "question": "The opposite of “ancient” is:",
+    "options": [
+      "Old",
+      "Modern",
+      "Historic",
+      "Former"
+    ],
+    "answer": 1,
+    "explanation": "Modern is the opposite of ancient."
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "question": "If x + 7 = 15, what is x?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "Subtract 7 from both sides: x = 8."
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "question": "What is 25% of 80?",
+    "options": [
+      "10",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": 1,
+    "explanation": "25% of 80 is 20."
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "question": "How many degrees are in a right angle?",
+    "options": [
+      "45",
+      "90",
+      "180",
+      "360"
+    ],
+    "answer": 1,
+    "explanation": "A right angle measures 90 degrees."
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "question": "What is 9²?",
+    "options": [
+      "18",
+      "72",
+      "81",
+      "90"
+    ],
+    "answer": 2,
+    "explanation": "9 × 9 = 81."
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "topic": "Fractions",
+    "question": "What is 1/2 + 1/4?",
+    "options": [
+      "1/4",
+      "2/4",
+      "3/4",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "Convert 1/2 to 2/4, then add 1/4 to get 3/4."
+  },
+  {
+    "id": 19,
+    "subject": "Physics",
+    "topic": "Motion",
+    "question": "What is the SI unit of speed?",
+    "options": [
+      "m/s",
+      "kg",
+      "N",
+      "J"
+    ],
+    "answer": 0,
+    "explanation": "Speed is measured in metres per second."
+  },
+  {
+    "id": 20,
+    "subject": "Physics",
+    "topic": "Energy",
+    "question": "The SI unit of energy is:",
+    "options": [
+      "Watt",
+      "Joule",
+      "Newton",
+      "Volt"
+    ],
+    "answer": 1,
+    "explanation": "Energy is measured in joules."
+  },
+  {
+    "id": 21,
+    "subject": "Physics",
+    "topic": "Electricity",
+    "question": "Which device measures electric current?",
+    "options": [
+      "Voltmeter",
+      "Ammeter",
+      "Barometer",
+      "Thermometer"
+    ],
+    "answer": 1,
+    "explanation": "An ammeter measures electric current."
+  },
+  {
+    "id": 22,
+    "subject": "Physics",
+    "topic": "Optics",
+    "question": "Light travels fastest in:",
+    "options": [
+      "Glass",
+      "Water",
+      "Vacuum",
+      "Diamond"
+    ],
+    "answer": 2,
+    "explanation": "In basic physics, light has its maximum speed in vacuum."
+  },
+  {
+    "id": 23,
+    "subject": "Physics",
+    "topic": "Force",
+    "question": "Newton’s second law is commonly written as:",
+    "options": [
+      "F = ma",
+      "P = VI",
+      "V = IR",
+      "E = mc"
+    ],
+    "answer": 0,
+    "explanation": "Force equals mass multiplied by acceleration."
+  },
+  {
+    "id": 24,
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "What is the atomic number of hydrogen?",
+    "options": [
+      "1",
+      "2",
+      "8",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "Hydrogen has one proton, so its atomic number is 1."
+  },
+  {
+    "id": 25,
+    "subject": "Chemistry",
+    "topic": "Atoms",
+    "question": "A negatively charged particle is called a:",
+    "options": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "explanation": "Electrons carry negative charge."
+  },
+  {
+    "id": 26,
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "question": "A solution with pH 7 is generally:",
+    "options": [
+      "Acidic",
+      "Neutral",
+      "Basic",
+      "Metallic"
+    ],
+    "answer": 1,
+    "explanation": "At standard conditions, pH 7 is neutral."
+  },
+  {
+    "id": 27,
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "question": "What is the symbol for sodium?",
+    "options": [
+      "So",
+      "S",
+      "Na",
+      "Sd"
+    ],
+    "answer": 2,
+    "explanation": "The chemical symbol for sodium is Na."
+  },
+  {
+    "id": 28,
+    "subject": "Chemistry",
+    "topic": "States of Matter",
+    "question": "Water freezes at approximately:",
+    "options": [
+      "0°C",
+      "50°C",
+      "100°C",
+      "-100°C"
+    ],
+    "answer": 0,
+    "explanation": "Pure water freezes at about 0°C at standard atmospheric pressure."
+  },
+  {
+    "id": 29,
+    "subject": "Biology",
+    "topic": "Cells",
+    "question": "The basic unit of life is the:",
+    "options": [
+      "Tissue",
+      "Organ",
+      "Cell",
+      "System"
+    ],
+    "answer": 2,
+    "explanation": "The cell is the basic structural and functional unit of life."
+  },
+  {
+    "id": 30,
+    "subject": "Biology",
+    "topic": "Genetics",
+    "question": "DNA stands for:",
+    "options": [
+      "Deoxyribonucleic acid",
+      "Dynamic Nuclear Acid",
+      "Double Nitrogen Acid",
+      "Deoxygenated Nucleic Atom"
+    ],
+    "answer": 0,
+    "explanation": "DNA stands for deoxyribonucleic acid."
+  },
+  {
+    "id": 31,
+    "subject": "Biology",
+    "topic": "Plants",
+    "question": "Photosynthesis mainly occurs in the:",
+    "options": [
+      "Nucleus",
+      "Chloroplast",
+      "Ribosome",
+      "Mitochondrion"
+    ],
+    "answer": 1,
+    "explanation": "Chloroplasts contain chlorophyll and are the main site of photosynthesis."
+  },
+  {
+    "id": 32,
+    "subject": "Biology",
+    "topic": "Human Body",
+    "question": "Which organ is primarily responsible for filtering blood and producing urine?",
+    "options": [
+      "Heart",
+      "Kidney",
+      "Lung",
+      "Stomach"
+    ],
+    "answer": 1,
+    "explanation": "The kidneys filter blood and form urine."
+  },
+  {
+    "id": 33,
+    "subject": "Biology",
+    "topic": "Ecology",
+    "question": "Organisms that make their own food are called:",
+    "options": [
+      "Consumers",
+      "Producers",
+      "Decomposers",
+      "Parasites"
+    ],
+    "answer": 1,
+    "explanation": "Plants and some other organisms are producers because they make organic food."
+  },
+  {
+    "id": 34,
+    "subject": "Computer Science",
+    "topic": "Programming",
+    "question": "Which language is commonly used for data analysis and automation?",
+    "options": [
+      "Python",
+      "HTML",
+      "CSS",
+      "SQL only"
+    ],
+    "answer": 0,
+    "explanation": "Python is widely used for programming, automation and data analysis."
+  },
+  {
+    "id": 35,
+    "subject": "Computer Science",
+    "topic": "Internet",
+    "question": "What does URL stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Read Link",
+      "User Resource Line",
+      "Unified Routing Language"
+    ],
+    "answer": 0,
+    "explanation": "URL stands for Uniform Resource Locator."
+  },
+  {
+    "id": 36,
+    "subject": "Computer Science",
+    "topic": "Data",
+    "question": "Which structure stores data as key-value pairs in Python?",
+    "options": [
+      "List",
+      "Tuple",
+      "Dictionary",
+      "Set"
+    ],
+    "answer": 2,
+    "explanation": "A Python dictionary stores key-value pairs."
+  },
+  {
+    "id": 37,
+    "subject": "Computer Science",
+    "topic": "Web",
+    "question": "HTML is mainly used to:",
+    "options": [
+      "Style pages",
+      "Structure web pages",
+      "Manage electricity",
+      "Compress images"
+    ],
+    "answer": 1,
+    "explanation": "HTML provides the structure and content of web pages."
+  },
+  {
+    "id": 38,
+    "subject": "Computer Science",
+    "topic": "Security",
+    "question": "A strong password should generally be:",
+    "options": [
+      "Short and predictable",
+      "Unique and difficult to guess",
+      "Your name only",
+      "The word password"
+    ],
+    "answer": 1,
+    "explanation": "Unique, hard-to-guess passwords improve account security."
+  },
+  {
+    "id": 39,
+    "subject": "General Knowledge",
+    "topic": "World",
+    "question": "Which is the largest ocean?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "answer": 2,
+    "explanation": "The Pacific Ocean is the largest ocean."
+  },
+  {
+    "id": 40,
+    "subject": "General Knowledge",
+    "topic": "Science",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": 1,
+    "explanation": "Mars is commonly called the Red Planet."
+  },
+  {
+    "id": 41,
+    "subject": "General Knowledge",
+    "topic": "Geography",
+    "question": "The Sahara is a:",
+    "options": [
+      "River",
+      "Desert",
+      "Mountain range",
+      "Lake"
+    ],
+    "answer": 1,
+    "explanation": "The Sahara is a desert in North Africa."
+  },
+  {
+    "id": 42,
+    "subject": "General Knowledge",
+    "topic": "Organizations",
+    "question": "What does UN stand for?",
+    "options": [
+      "United Nations",
+      "Universal Network",
+      "United Neighbors",
+      "United Navy"
+    ],
+    "answer": 0,
+    "explanation": "UN stands for United Nations."
+  },
+  {
+    "id": 43,
+    "subject": "General Knowledge",
+    "topic": "Geography",
+    "question": "Which continent contains Egypt?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "South America"
+    ],
+    "answer": 1,
+    "explanation": "Egypt is located primarily in northeastern Africa."
+  },
+  {
+    "id": 44,
+    "subject": "Islamiyat",
+    "topic": "Quran",
+    "question": "How many surahs are in the Quran?",
+    "options": [
+      "110",
+      "112",
+      "114",
+      "116"
+    ],
+    "answer": 2,
+    "explanation": "The Quran contains 114 surahs."
+  },
+  {
+    "id": 45,
+    "subject": "Islamiyat",
+    "topic": "Seerah",
+    "question": "In which city was Prophet Muhammad (PBUH) born?",
+    "options": [
+      "Madinah",
+      "Makkah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "answer": 1,
+    "explanation": "Prophet Muhammad (PBUH) was born in Makkah."
+  },
+  {
+    "id": 46,
+    "subject": "Islamiyat",
+    "topic": "Five Pillars",
+    "question": "Which is the obligatory charity in Islam?",
+    "options": [
+      "Zakat",
+      "Hajj",
+      "Sawm",
+      "Salah"
+    ],
+    "answer": 0,
+    "explanation": "Zakat is the obligatory almsgiving pillar."
+  },
+  {
+    "id": 47,
+    "subject": "Islamiyat",
+    "topic": "Five Pillars",
+    "question": "Which month is associated with obligatory fasting?",
+    "options": [
+      "Muharram",
+      "Ramadan",
+      "Rajab",
+      "Safar"
+    ],
+    "answer": 1,
+    "explanation": "Fasting during Ramadan is one of the Five Pillars."
+  },
+  {
+    "id": 48,
+    "subject": "Islamiyat",
+    "topic": "Prayer",
+    "question": "How many obligatory prayers are performed each day?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "Muslims are obligated to perform five daily prayers."
+  },
+  {
+    "id": 49,
+    "subject": "Pakistan Studies",
+    "topic": "History",
+    "question": "Pakistan came into being in:",
+    "options": [
+      "1930",
+      "1940",
+      "1947",
+      "1956"
+    ],
+    "answer": 2,
+    "explanation": "Pakistan became independent in 1947."
+  },
+  {
+    "id": 50,
+    "subject": "Pakistan Studies",
+    "topic": "Constitution",
+    "question": "The Constitution of Pakistan currently in force was originally adopted in:",
+    "options": [
+      "1956",
+      "1962",
+      "1973",
+      "1985"
+    ],
+    "answer": 2,
+    "explanation": "The Constitution of 1973 was adopted by the National Assembly in 1973."
+  },
+  {
+    "id": 51,
+    "subject": "Pakistan Studies",
+    "topic": "Geography",
+    "question": "The longest river of Pakistan is the:",
+    "options": [
+      "Indus",
+      "Ravi",
+      "Chenab",
+      "Jhelum"
+    ],
+    "answer": 0,
+    "explanation": "The Indus is Pakistan's principal and longest river."
+  },
+  {
+    "id": 52,
+    "subject": "Pakistan Studies",
+    "topic": "History",
+    "question": "The Lahore Resolution was passed in:",
+    "options": [
+      "1930",
+      "1940",
+      "1947",
+      "1951"
+    ],
+    "answer": 1,
+    "explanation": "The Lahore Resolution was passed on 23 March 1940."
+  },
+  {
+    "id": 53,
+    "subject": "Pakistan Studies",
+    "topic": "National Symbols",
+    "question": "The national language of Pakistan is:",
+    "options": [
+      "Punjabi",
+      "Sindhi",
+      "Urdu",
+      "Pashto"
+    ],
+    "answer": 2,
+    "explanation": "Urdu is the national language of Pakistan."
+  },
+  {
+    "id": 54,
+    "subject": "Current Affairs",
+    "topic": "Science",
+    "question": "Which organization coordinates international public health work within the UN system?",
+    "options": [
+      "WHO",
+      "FIFA",
+      "WTO",
+      "UNESCO"
+    ],
+    "answer": 0,
+    "explanation": "WHO is the World Health Organization."
+  },
+  {
+    "id": 55,
+    "subject": "Current Affairs",
+    "topic": "Technology",
+    "question": "AI is commonly used as an abbreviation for:",
+    "options": [
+      "Automated Internet",
+      "Artificial Intelligence",
+      "Applied Information",
+      "Advanced Interface"
+    ],
+    "answer": 1,
+    "explanation": "AI commonly means Artificial Intelligence."
+  },
+  {
+    "id": 56,
+    "subject": "Current Affairs",
+    "topic": "Environment",
+    "question": "Which gas is most associated with human-caused greenhouse gas emissions?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Helium",
+      "Neon"
+    ],
+    "answer": 1,
+    "explanation": "Carbon dioxide is a major human-caused greenhouse gas."
+  },
+  {
+    "id": 57,
+    "subject": "Current Affairs",
+    "topic": "Space",
+    "question": "What does NASA stand for?",
+    "options": [
+      "National Aeronautics and Space Administration",
+      "National Air Safety Agency",
+      "North American Space Association",
+      "National Astronomy and Science Authority"
+    ],
+    "answer": 0,
+    "explanation": "NASA is the National Aeronautics and Space Administration."
+  },
+  {
+    "id": 58,
+    "subject": "Current Affairs",
+    "topic": "Economics",
+    "question": "Inflation generally refers to:",
+    "options": [
+      "A sustained rise in the general price level",
+      "A fall in population",
+      "A rise in rainfall",
+      "A decrease in all prices"
+    ],
+    "answer": 0,
+    "explanation": "Inflation is a sustained increase in the general price level."
+  },
+  {
+    "id": 59,
+    "subject": "IQ / Analytical Reasoning",
+    "topic": "Number Series",
+    "question": "What comes next: 3, 6, 9, 12, ?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "18"
+    ],
+    "answer": 2,
+    "explanation": "The pattern adds 3 each time."
+  },
+  {
+    "id": 60,
+    "subject": "IQ / Analytical Reasoning",
+    "topic": "Analogy",
+    "question": "Book is to Reading as Fork is to:",
+    "options": [
+      "Writing",
+      "Eating",
+      "Sleeping",
+      "Running"
+    ],
+    "answer": 1,
+    "explanation": "A fork is commonly used for eating."
+  },
+  {
+    "id": 61,
+    "subject": "IQ / Analytical Reasoning",
+    "topic": "Odd One Out",
+    "question": "Which is different?",
+    "options": [
+      "Apple",
+      "Mango",
+      "Carrot",
+      "Banana"
+    ],
+    "answer": 2,
+    "explanation": "Carrot is commonly classified as a vegetable; the others are fruits."
+  },
+  {
+    "id": 62,
+    "subject": "IQ / Analytical Reasoning",
+    "topic": "Coding",
+    "question": "If CAT is coded as DBU by shifting each letter one place forward, DOG becomes:",
+    "options": [
+      "EPH",
+      "EOG",
+      "DPH",
+      "FQI"
+    ],
+    "answer": 0,
+    "explanation": "D→E, O→P, G→H gives EPH."
+  },
+  {
+    "id": 63,
+    "subject": "IQ / Analytical Reasoning",
+    "topic": "Logic",
+    "question": "If all roses are flowers and some flowers are red, which statement is definitely true?",
+    "options": [
+      "All roses are flowers",
+      "All roses are red",
+      "No flowers are red",
+      "All red things are roses"
+    ],
+    "answer": 0,
+    "explanation": "The first statement directly follows from the premise."
+  },
+  {
+    "id": 64,
+    "subject": "English",
+    "topic": "STHP",
+    "question": "Choose the word closest in meaning to “abundant”.",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Empty",
+      "Weak"
+    ],
+    "answer": 1,
+    "explanation": "Abundant means plentiful."
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "topic": "STHP",
+    "question": "If 5x = 45, x equals:",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "45 divided by 5 equals 9."
+  },
+  {
+    "id": 66,
+    "subject": "Physics",
+    "topic": "STHP",
+    "question": "Which quantity is measured in watts?",
+    "options": [
+      "Energy",
+      "Power",
+      "Force",
+      "Mass"
+    ],
+    "answer": 1,
+    "explanation": "Power is measured in watts."
+  },
+  {
+    "id": 67,
+    "subject": "English",
+    "topic": "NTHP",
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "Necessary",
+      "Necesary",
+      "Neccessary",
+      "Necassary"
+    ],
+    "answer": 0,
+    "explanation": "Necessary is the correct spelling."
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "topic": "NTHP",
+    "question": "What is 15% of 200?",
+    "options": [
+      "15",
+      "20",
+      "30",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "15% of 200 is 30."
+  },
+  {
+    "id": 69,
+    "subject": "Biology",
+    "topic": "NTHP",
+    "question": "Which blood cells help defend the body against infection?",
+    "options": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma only"
+    ],
+    "answer": 1,
+    "explanation": "White blood cells are central to immune defense."
+  },
+  {
+    "id": 70,
+    "subject": "English",
+    "topic": "IBA Karachi",
+    "question": "Choose the correct conditional sentence.",
+    "options": [
+      "If I had time, I will go.",
+      "If I have time, I would went.",
+      "If I have time, I will go.",
+      "If I having time, I go."
+    ],
+    "answer": 2,
+    "explanation": "The first conditional commonly uses if + present simple, followed by will + base verb."
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "topic": "IBA Karachi",
+    "question": "What is the average of 10, 20 and 30?",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": 1,
+    "explanation": "(10 + 20 + 30) / 3 = 20."
+  },
+  {
+    "id": 72,
+    "subject": "IQ / Analytical Reasoning",
+    "topic": "IBA Karachi",
+    "question": "If A=1, B=2, C=3, what is the value of CAB?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "C + A + B = 3 + 1 + 2 = 6."
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "topic": "NTS NAT",
+    "question": "What is the HCF of 12 and 18?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "The greatest common factor of 12 and 18 is 6."
+  },
+  {
+    "id": 74,
+    "subject": "English",
+    "topic": "NTS NAT",
+    "question": "The antonym of “expand” is:",
+    "options": [
+      "Increase",
+      "Contract",
+      "Extend",
+      "Enlarge"
+    ],
+    "answer": 1,
+    "explanation": "Contract means to become smaller or reduce in size."
+  },
+  {
+    "id": 75,
+    "subject": "General Knowledge",
+    "topic": "NTS NAT",
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Ammeter",
+      "Hygrometer"
+    ],
+    "answer": 1,
+    "explanation": "A barometer measures atmospheric pressure."
+  },
+  {
+    "id": 76,
+    "subject": "Biology",
+    "topic": "MDCAT",
+    "question": "Which molecule carries genetic information in most organisms?",
+    "options": [
+      "DNA",
+      "ATP",
+      "Glucose",
+      "Hemoglobin"
+    ],
+    "answer": 0,
+    "explanation": "DNA carries hereditary genetic information in most organisms."
+  },
+  {
+    "id": 77,
+    "subject": "Chemistry",
+    "topic": "MDCAT",
+    "question": "What is the approximate pH of a neutral aqueous solution at room temperature?",
+    "options": [
+      "1",
+      "5",
+      "7",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "A neutral aqueous solution is approximately pH 7 at room temperature."
+  },
+  {
+    "id": 78,
+    "subject": "Physics",
+    "topic": "MDCAT",
+    "question": "What is the acceleration due to gravity near Earth's surface approximately?",
+    "options": [
+      "0.98 m/s²",
+      "9.8 m/s²",
+      "98 m/s²",
+      "980 m/s²"
+    ],
+    "answer": 1,
+    "explanation": "Near Earth's surface, g is approximately 9.8 m/s²."
+  },
+  {
+    "id": 79,
+    "subject": "General Knowledge",
+    "topic": "SALU",
+    "question": "SALU is the abbreviation commonly used for:",
+    "options": [
+      "Shah Abdul Latif University",
+      "Sindh Academic Learning University",
+      "Sukkur Arts and Law University",
+      "Sindh Allied Law University"
+    ],
+    "answer": 0,
+    "explanation": "SALU commonly refers to Shah Abdul Latif University."
+  },
+  {
+    "id": 80,
+    "subject": "English",
+    "topic": "SALU",
+    "question": "Choose the correct form: “They ___ playing cricket.”",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": 2,
+    "explanation": "They takes the plural auxiliary are."
+  },
+  {
+    "id": 81,
+    "subject": "Mathematics",
+    "topic": "SALU",
+    "question": "What is 7 × 8?",
+    "options": [
+      "54",
+      "56",
+      "58",
+      "64"
+    ],
+    "answer": 1,
+    "explanation": "7 multiplied by 8 equals 56."
+  },
+  {
+    "id": 82,
+    "subject": "Computer Science",
+    "topic": "COMSATS",
+    "question": "Which number system uses only 0 and 1?",
+    "options": [
+      "Decimal",
+      "Binary",
+      "Octal",
+      "Hexadecimal"
+    ],
+    "answer": 1,
+    "explanation": "Binary uses the digits 0 and 1."
+  },
+  {
+    "id": 83,
+    "subject": "Mathematics",
+    "topic": "COMSATS",
+    "question": "What is the derivative of x² with respect to x?",
+    "options": [
+      "x",
+      "2x",
+      "x²",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "The derivative of x² is 2x."
+  },
+  {
+    "id": 84,
+    "subject": "Physics",
+    "topic": "COMSATS",
+    "question": "Which unit is used for electrical resistance?",
+    "options": [
+      "Ohm",
+      "Volt",
+      "Ampere",
+      "Coulomb"
+    ],
+    "answer": 0,
+    "explanation": "Electrical resistance is measured in ohms."
+  },
+  {
+    "id": 85,
+    "subject": "Biology",
+    "topic": "DOW University",
+    "question": "Which vitamin is synthesized in the skin in response to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 3,
+    "explanation": "Sunlight enables the skin to synthesize vitamin D."
+  },
+  {
+    "id": 86,
+    "subject": "Chemistry",
+    "topic": "DOW University",
+    "question": "Which organ is the main site of detoxification and many metabolic reactions?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Spleen",
+      "Appendix"
+    ],
+    "answer": 0,
+    "explanation": "The liver performs many metabolic and detoxification functions."
+  },
+  {
+    "id": 87,
+    "subject": "Physics",
+    "topic": "DOW University",
+    "question": "Which type of lens is commonly used to correct short-sightedness (myopia)?",
+    "options": [
+      "Convex",
+      "Concave",
+      "Cylindrical only",
+      "Plane"
+    ],
+    "answer": 1,
+    "explanation": "A concave lens diverges incoming light and is used to correct myopia."
   }
 ]
