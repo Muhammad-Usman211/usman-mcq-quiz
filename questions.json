@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "subject": "English",
+    "topic": "Grammar",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "He go to school.",
+      "He goes to school.",
+      "He going school.",
+      "He gone school."
+    ],
+    "answer": 1,
+    "explanation": "Use goes with he in the present simple."
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "question": "What is 12 × 5?",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "answer": 1,
+    "explanation": "12 multiplied by 5 equals 60."
+  },
+  {
+    "id": 3,
+    "subject": "General Knowledge",
+    "topic": "Pakistan",
+    "question": "What is the capital of Pakistan?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Peshawar"
+    ],
+    "answer": 2,
+    "explanation": "Islamabad is the capital of Pakistan."
+  },
+  {
+    "id": 4,
+    "subject": "Computer Science",
+    "topic": "Basics",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Control Processing User"
+    ],
+    "answer": 0,
+    "explanation": "CPU means Central Processing Unit."
+  },
+  {
+    "id": 5,
+    "subject": "Biology",
+    "topic": "Human Body",
+    "question": "Which organ pumps blood?",
+    "options": [
+      "Lungs",
+      "Brain",
+      "Heart",
+      "Kidney"
+    ],
+    "answer": 2,
+    "explanation": "The heart pumps blood."
+  },
+  {
+    "id": 6,
+    "subject": "Physics",
+    "topic": "Basics",
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "answer": 1,
+    "explanation": "Force is measured in newtons."
+  },
+  {
+    "id": 7,
+    "subject": "Chemistry",
+    "topic": "Atoms",
+    "question": "What is the chemical symbol for oxygen?",
+    "options": [
+      "Ox",
+      "O",
+      "C",
+      "H"
+    ],
+    "answer": 1,
+    "explanation": "O is the symbol for oxygen."
+  },
+  {
+    "id": 8,
+    "subject": "Islamiyat",
+    "topic": "Basics",
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "There are five pillars of Islam."
+  }
+]
